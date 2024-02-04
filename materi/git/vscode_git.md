@@ -1,8 +1,8 @@
 ## Cara Menghubungkan VS Code dengan Github
 
-#### Get all items
+#### Buat lah direktory project
 
-```http
+```bash
   GET /api/items
 ```
 
