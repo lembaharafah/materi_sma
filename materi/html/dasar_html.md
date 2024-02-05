@@ -2,11 +2,7 @@
 
 Mari kita lihat pengertian HTML menurut wikipedia:
 
-HTML atau HyperText Markup Language merupakan sebuah bahasa markah untuk membuat halaman web. 1
-
-Paham kan maksudnya?
-
-Kalau belum paham, sini saya jelaskan…
+HTML atau HyperText Markup Language merupakan sebuah bahasa markah untuk membuat halaman web.
 
 Jadi, HTML itu adalah sebuah bahasa yang menggunakan markup atau penanda untuk membuat halaman web.
 
@@ -17,24 +13,13 @@ HTML berperan untuk menentukan struktur konten dan tampilan dari sebuah web.
 Kalau kita ibaratkan nih..
 
 HTML itu seperti batu bata untuk membangun rumah. Batu bata ini dapat disusun, hingga menjadi fondasi dasar.
-
+![App Screenshot](html-css-js.png)
 HTML CSS dan Javascript
 Dalam membuat halaman web, HTML tidak sendirian. Ada bahasa lain lagi yang menjadi pelengkapnya, yakni CSS dan Javascript.
 
 CSS adalah bahasa khusus yang digunakan untuk memperindah tampilan web.
 
 Lalu Javascript bertugas untuk membuat halaman web menjadi hidup. Karena dengan Javascript, kita dapat menentukan fungsi-fungsi maupun efek yang akan diterapkan di website.
-
-Oh iya, pada tutorial ini.. Kita akan fokus dulu membahas HTML. Jika kamu ingin belajar CSS dan Javascript, silahkan buka:
-
-Tutorial CSS untuk Pemula
-Tutorial Javascript untuk Pemula
-Oke, saya anggap kamu sudah paham tentang apa itu HTML serta peranannya dalam pembuatan web.
-
-Berikutnya, biar lebih paham.. kita akan membahas sejarah dan asal-usul HTML.
-
-Sejarah dan Asal-usul HTML
-Sejarah lengkap HTML bisa juga dibaca di:
 
 Sejarah dan Asal Usul HTML
 Pada tutiorial ini, kita akan bahas sejarahnya secara singkat.
