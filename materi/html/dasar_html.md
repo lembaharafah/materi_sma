@@ -189,7 +189,7 @@ Tag `<html>` wajib ada di setiap dokumen HTML..
 
 Pada tag ini, kita memberikan atribut lang="en" untuk menyatakan kalau konten dokumen HTML ini akan menggunakan bahasa inggris.
 
-Nah di dalam tag `<html>` ini, terdapat dua tag penting lagi.. yakni: tag <head> dan tag `<body>`.
+Nah di dalam tag `<html>` ini, terdapat dua tag penting lagi.. yakni: tag `<head>` dan tag `<body>`.
 
 Setelah itu barulah terakhir tag HTML ditutup dengan `</html>`.
 
@@ -215,8 +215,10 @@ Seperti:
 Tag meta untuk SEO;
 Tag `<title>` untuk judul;
 Tempat menulis kode CSS dan Javascript;
-dan lain-lain. 3. Bagian BODY
-Bagian BODY adalah bagian yang akan ditampilkan pada web browser. Penulisannya di mulai dari tag `<body>` dan ditutup dengan `</body>`.
+dan lain-lain.
+
+3. Bagian BODY
+   Bagian BODY adalah bagian yang akan ditampilkan pada web browser. Penulisannya di mulai dari tag `<body>` dan ditutup dengan `</body>`.
 
 ```html
 <!DOCTYPE html>
@@ -230,4 +232,4 @@ Bagian BODY adalah bagian yang akan ditampilkan pada web browser. Penulisannya d
 </html>
 ```
 
-Di sinilah nanti kita akan banyak menuliskan konten dengan berbagai macam tag. Saat ini kita baru mengisinya dengan tag <p>. Tag <p> adalah tag yang digunakan untuk membuat paragraf.
+Di sinilah nanti kita akan banyak menuliskan konten dengan berbagai macam tag. Saat ini kita baru mengisinya dengan tag `<p>`. Tag `<p>` adalah tag yang digunakan untuk membuat paragraf.
