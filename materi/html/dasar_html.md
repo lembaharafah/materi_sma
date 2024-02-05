@@ -52,7 +52,8 @@ HTML punya beberapa versi, dari versi yang paling tua hingga yang terbaru. Berik
 - HTML 5 (28 Oktober 2014) versi html saat ini.
 
 Adapun peralatan yang harus kamu persiapkan adalah:
-| Plugin | README |
+| | |
+| ------ | ------ |
 |1.| Teks Editor untuk Menulis HTML|
 ||Teks editor akan kita gunakan untuk menulis kode-kode HTML. Kamu bebas menggunakan teks editor apapun.|
 ||Notepad boleh, Notepad++,Visual Studio Code juga boleh..|
