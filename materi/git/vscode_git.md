@@ -19,6 +19,10 @@
 
 ![App Screenshot](project1.png)
 
+- Klik cource control yang ada di visual code
+
+![App Screenshot](project2.png)
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
