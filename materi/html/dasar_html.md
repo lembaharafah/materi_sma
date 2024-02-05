@@ -24,35 +24,6 @@ CSS adalah bahasa khusus yang digunakan untuk memperindah tampilan web.
 
 Lalu Javascript bertugas untuk membuat halaman web menjadi hidup. Karena dengan Javascript, kita dapat menentukan fungsi-fungsi maupun efek yang akan diterapkan di website.
 
-Sejarah dan Asal Usul HTML
-Pada tutiorial ini, kita akan bahas sejarahnya secara singkat.
-
-Cerita awal kemunculan HTML dimulai dari tahun 1980..
-
-Saat itu seorang ilmuan bernama Tim Berners-Lee sedang bekerja di CERN.
-
-Tim Berners-Lee (2009)
-Tim Berners-Lee (2009)
-CERN sendiri bukanlah perusahaan yang berkaitan tentang teknologi maupun internet. CERN adalah singkatan dari bahasa prancis: Conseil Européen pour la Recherche Nucléaire.
-
-Yang artinya: Komisi Eropa untuk Penelitian Fisika Nuklir.
-
-Website CERN (2020)
-Website CERN (2020)
-Para peneliti di CERN membutuhkan sebuah cara atau sistem agar bisa saling berbagi dokumen hasil penelitian.
-
-Tim kemudian mencoba membuat ENQUIRE. Ini adalah software hypertext yang akan digunakan untuk berbagi dokumen.
-
-Lalu di tahun 1989, Tim memperkenalkan ide tentang hypertext berbasis internet. Ini nantinya akan menjadi cikal-bakal HTML.
-
-Tim kemudian memulai proyek baru dengan rekannya Robert Cailliau yang merupakan system engineer di CERN. Akan tetapi proyek ini tidak resmi diadopsi oleh CERN.
-
-Tim Berners-Lee (kiri) dan Robert Cailliau (kana)
-Tim Berners-Lee (kiri) dan Robert Cailliau (kanan)
-Pada akhir tahun 1991, Tim Berners-Lee menerbitkan dokumen yang berjudul: “HTML Tags”.
-
-Dokumen ini berisi penjelasan tentang 18 tags awal yang menjadi konsep dasar HTML.
-
 HTML sebenarnya dirancang berdasarkan pada konsep bahasa markup yang dikenal dengan SGML (Standard Generalized Markup Language).
 
 SGML adalah sebuah standar internasional untuk membuat dokumen dengan tanda (markup) seperti paragraf, list, heading, dan lain-lain.
@@ -61,7 +32,7 @@ Bisa dibilang..
 
 HTML adalah implementasi dari SGML.
 
-Kalau kita lihat, beberapa tag seperti <title>, <p>, <li>, dan <h1> sampai <h6> berasal dari SGML. Namun, tidak semua yang ada di HTML berasal dari SGML.
+Kalau kita lihat, beberapa tag seperti '<title>', '<p>', '<li>', dan '<h1>' sampai '<h6>' berasal dari SGML. Namun, tidak semua yang ada di HTML berasal dari SGML.
 
 Salah satunya adalah Hyperlink, yang murni hasil pemikiran Tim Berners-Lee.
 
