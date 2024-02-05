@@ -13,8 +13,11 @@ HTML berperan untuk menentukan struktur konten dan tampilan dari sebuah web.
 Kalau kita ibaratkan nih..
 
 HTML itu seperti batu bata untuk membangun rumah. Batu bata ini dapat disusun, hingga menjadi fondasi dasar.
+
 ![App Screenshot](html-css-js.png)
-HTML CSS dan Javascript
+
+### HTML CSS dan Javascript
+
 Dalam membuat halaman web, HTML tidak sendirian. Ada bahasa lain lagi yang menjadi pelengkapnya, yakni CSS dan Javascript.
 
 CSS adalah bahasa khusus yang digunakan untuk memperindah tampilan web.
