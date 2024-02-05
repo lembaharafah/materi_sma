@@ -17,7 +17,7 @@
   code .
 ```
 
-#### tampilan visualcode dengan home folder project1
+tampilan visualcode dengan home folder project1
 
 ![App Screenshot](project1.png)
 
