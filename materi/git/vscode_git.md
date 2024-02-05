@@ -17,6 +17,10 @@
   code .
 ```
 
+#### tampilan visualcode dengan home folder project1
+
+![App Screenshot](project1.png)
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
