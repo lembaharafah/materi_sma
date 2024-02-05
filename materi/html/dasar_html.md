@@ -53,8 +53,8 @@ HTML punya beberapa versi, dari versi yang paling tua hingga yang terbaru. Berik
 
 Adapun peralatan yang harus kamu persiapkan adalah:
 
-1. Teks Editor untuk Menulis HTML
-   Teks editor akan kita gunakan untuk menulis kode-kode HTML. Kamu bebas menggunakan teks editor apapun.
+|1.| Teks Editor untuk Menulis HTML|
+Teks editor akan kita gunakan untuk menulis kode-kode HTML. Kamu bebas menggunakan teks editor apapun.
 
 Notepad boleh, Notepad++,Visual Studio Code juga boleh..
 
@@ -63,8 +63,8 @@ Apapun teks editornya, yang penting bisa digunakan untuk membuat dan menulis dok
 
 Namun, pada tutorial ini.. kita akan menggunakan teks editor Visual Studio Code.
 
-2. Web Browser untuk Membuka HTML
-   Web browser akan kita gunakan untuk membuka HTML. Kamu juga bebeas menggunakan web browser apapun.
+|2. |Web Browser untuk Membuka HTML|
+Web browser akan kita gunakan untuk membuka HTML. Kamu juga bebeas menggunakan web browser apapun.
 
 Web browser untuk membuka HTML
 Saran saya sih.. gunakan web browser yang terbaru, karena kita juga akan menggunakan HTML versi yang terbaru.
