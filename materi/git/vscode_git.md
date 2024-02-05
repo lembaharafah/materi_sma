@@ -27,6 +27,11 @@
 
 ![App Screenshot](project3.png)
 
+- Ketik nama repository yang akan di buat contoh Project1
+- Untuk Public pilih yang public
+
+![App Screenshot](project4.png)
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
