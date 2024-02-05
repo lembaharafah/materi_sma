@@ -53,7 +53,6 @@ HTML punya beberapa versi, dari versi yang paling tua hingga yang terbaru. Berik
 
 Adapun peralatan yang harus kamu persiapkan adalah:
 | Plugin | README |
-| ------ | ------ |
 |1.| Teks Editor untuk Menulis HTML|
 ||Teks editor akan kita gunakan untuk menulis kode-kode HTML. Kamu bebas menggunakan teks editor apapun.|
 ||Notepad boleh, Notepad++,Visual Studio Code juga boleh..|
