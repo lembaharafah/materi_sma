@@ -1,10 +1,10 @@
 ## Cara Menghubungkan VS Code dengan Github
 
-#### Buat lah direktory project
+- Buat lah direktory project
 
-#### jalankan di perintah command Prompt (di OS windows)
+- jalankan di perintah command Prompt (di OS windows)
 
-#### Masuk ke root direktory dan buat direktory project1
+- Masuk ke root direktory dan buat direktory project1
 
 ```bash
   cd\xampp\htdocs
@@ -17,7 +17,7 @@
   code .
 ```
 
-tampilan visualcode dengan home folder project1
+- tampilan visualcode dengan home folder project1
 
 ![App Screenshot](project1.png)
 
