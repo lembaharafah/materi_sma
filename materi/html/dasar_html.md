@@ -32,7 +32,7 @@ Bisa dibilang..
 
 HTML adalah implementasi dari SGML.
 
-Kalau kita lihat, beberapa tag seperti `html<title>`, `html<p>`,`html<li>`, dan `html<h1>` sampai `html<h6>` berasal dari SGML. Namun, tidak semua yang ada di HTML berasal dari SGML.
+Kalau kita lihat, beberapa tag seperti `<title>`, `<p>`,`<li>`, dan `<h1>` sampai `<h6>` berasal dari SGML. Namun, tidak semua yang ada di HTML berasal dari SGML.
 
 Salah satunya adalah Hyperlink, yang murni hasil pemikiran Tim Berners-Lee.
 
