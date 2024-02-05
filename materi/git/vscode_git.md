@@ -23,6 +23,10 @@
 
 ![App Screenshot](project2.png)
 
+- Klik Publish to Github
+
+![App Screenshot](project3.png)
+
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
