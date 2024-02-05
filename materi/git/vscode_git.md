@@ -2,16 +2,14 @@
 
 - Buat lah direktory project
 
-- jalankan di perintah command Prompt (di OS windows)
-
-- Masuk ke root direktory dan buat direktory project1
+- jalankan di perintah command Prompt (di OS windows), Masuk ke root direktory dan buat direktory project1
 
 ```bash
   cd\xampp\htdocs
   mkdir project1
 ```
 
-#### Jalankan VS CODE di dalam directory project1...
+- Jalankan VS CODE di dalam directory project1...
 
 ```bash
   code .
