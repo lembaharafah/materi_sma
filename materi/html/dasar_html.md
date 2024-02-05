@@ -41,36 +41,22 @@ Ide tentang HTML ini kemudian disebarkan ke dalam sebuah mailing list dan segera
 Perkembangan dan Versi HTML
 HTML punya beberapa versi, dari versi yang paling tua hingga yang terbaru. Berikut ini perkembangan versi HTML:
 
-[Draft] HTML 1.0 (Juni 1993) adalah versi HTML pertama, namun tidak resmi dirilis;
-HTML 2.0 (24 November 1995) adalah versi HTML kedua yang resmi pertamakali beredar di pasaran dan dirilis oleh IETF;
-[Draft] HTML 3.0 (28 Maret 1995) versi ini gagal beredar, karena banyak perubahan yang memicu perdebatan;
-HTML 3.2 (14 Januari 1997) versi resmi yang dirilis W3C pertamakali.
-HTML 4.0 (24 April 1998) versi pengembangan dari yang seblumnya;
-HTML 4.01 (24 Desember 1999) versi perbaikan dari HTML 4.0;
-XHTML 1.0 (26 Januari 2000) pengembangan dari HTML 4.01 dengan mengadopsi XML;
-XHTML 2.0 (Augustus 2002—Juli 2006) versi kedua dari XHTML;
-HTML 5 (28 Oktober 2014) versi html saat ini.
-Versi [draft] adalah versi yang tidak resmi dirilis ke pasaran. Bentuknya cuma masih dalam draft speksifikasi saja.
-
-Artinya..
-
-Tidak ada yang menggunakan versi [draft] untuk membuat web.
-
-Lalu, versi mana yang akan kita pakai?
-
-Tentunya versi terbaru, yakni HTML 5.
-
-Peralatan untuk Belajar HTML
-Nah, sekarang.. Tiba saatnya kita praktik!
-
-Tapi sebelum itu, kamu harus siapkan beberapa alat yang akan digunakan untuk praktik.
+- HTML 1.0 (Juni 1993) adalah versi HTML pertama, namun tidak resmi dirilis;
+- HTML 2.0 (24 November 1995) adalah versi HTML kedua yang resmi pertamakali beredar di pasaran dan dirilis oleh IETF;
+- HTML 3.0 (28 Maret 1995) versi ini gagal beredar, karena banyak perubahan yang memicu perdebatan;
+- HTML 3.2 (14 Januari 1997) versi resmi yang dirilis W3C pertamakali.
+- HTML 4.0 (24 April 1998) versi pengembangan dari yang seblumnya;
+- HTML 4.01 (24 Desember 1999) versi perbaikan dari HTML 4.0;
+- XHTML 1.0 (26 Januari 2000) pengembangan dari HTML 4.01 dengan mengadopsi XML;
+- XHTML 2.0 (Augustus 2002—Juli 2006) versi kedua dari XHTML;
+- HTML 5 (28 Oktober 2014) versi html saat ini.
 
 Adapun peralatan yang harus kamu persiapkan adalah:
 
 1. Teks Editor untuk Menulis HTML
    Teks editor akan kita gunakan untuk menulis kode-kode HTML. Kamu bebas menggunakan teks editor apapun.
 
-Notepad boleh, Notepad++ juga boleh..
+Notepad boleh, Notepad++,Visual Studio Code juga boleh..
 
 Notepad++ untuk menulis HTML
 Apapun teks editornya, yang penting bisa digunakan untuk membuat dan menulis dokumen HTML.
@@ -90,15 +76,18 @@ Kini tiba saatnya, kamu harus mencoba sendiri membuat dokumen HTML. Caranya sang
 
 Mari kita mulai dengan membuka teks editor, lalu tulislah kode berikut.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Belajar HTML #01</title>
-    </head>
-    <body>
-        <p>Hello World!</p>
-    </body>
+  <head>
+    <title>Belajar HTML #01</title>
+  </head>
+  <body>
+    <p>Hello World!</p>
+  </body>
 </html>
+```
+
 Setelah itu, simpan dengan nama hello-world.html.
 
 Dokumen HTML pertamaku
@@ -164,7 +153,7 @@ Struktur Dasar HTML
 Berikut ini adalah kode HTML yang baru saja kita buat:
 
 Struktur dasar kode HTML
-Penulisan kode HTML selalu dimulai dengan deklarasi DOCTYPE, lalau menuliskan tag <html> dan di dalamnya terdapat tag <head> dan <body>.
+Penulisan kode HTML selalu dimulai dengan deklarasi DOCTYPE, lalau menuliskan tag `<html>` dan di dalamnya terdapat tag `<head>` dan `<body>`.
 
 Kalau kita perhatikan.. struktur dasar kode HTML terdiri dari tiga bagian penting:
 
@@ -174,19 +163,17 @@ Bagian BODY
 Mari kita bahas satu-per-satu:
 
 1. Bagian Deklarasi
-   Coba perhatikan kode pada baris pertama: <!DOCTYPE html>.
+   Coba perhatikan kode pada baris pertama: `<!DOCTYPE html>`.
 
 Ini adalah tag deklarasi untuk menyatakan tipe dokumen dan versinya. Pada contoh di atas, kita menyatakan dokumen ini bertipe HTML dan versinya adalah HTML 5.
 
 Nah, untuk HTML versi 4.. beda lagi cara deklarasinya.
 
 Contoh untuk HTML 4.01:
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
+`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">`
 Cukup panjang bukan..
 
-Lalu apakah boleh kita tidak menulis kode <!DOCTYPE html> ini?
+Lalu apakah boleh kita tidak menulis kode `<!DOCTYPE html>` ini?
 
 Boleh-boleh saja.. dokumen HTML-nya akan tetap bisa dibuka di web browser. Tapi, ini tentunya akan melanggar aturan standar yang dibuat W3C.
 
@@ -195,46 +182,52 @@ O ya, kita bisa mengecek.. apakah HTML yang ditulis sudah benar atau tidak di ht
 Cek validasi HTML
 Lanjut…
 
-Berikutnya, di bawah tag deklarasi <!DOCTYPE html> terdapat tag pembuka untuk HTML:
+Berikutnya, di bawah tag deklarasi `<!DOCTYPE html>` terdapat tag pembuka untuk HTML:
 
-<html lang="en">
-Tag <html> wajib ada di setiap dokumen HTML..
+`<html lang="en">`
+Tag `<html>` wajib ada di setiap dokumen HTML..
 
 Pada tag ini, kita memberikan atribut lang="en" untuk menyatakan kalau konten dokumen HTML ini akan menggunakan bahasa inggris.
 
-Nah di dalam tag <html> ini, terdapat dua tag penting lagi.. yakni: tag <head> dan tag <body>.
+Nah di dalam tag `<html>` ini, terdapat dua tag penting lagi.. yakni: tag <head> dan tag `<body>`.
 
-Setelah itu barulah terakhir tag HTML ditutup dengan </html>.
+Setelah itu barulah terakhir tag HTML ditutup dengan `</html>`.
 
 2. Bagian HEAD
-   Bagian HEAD adalah bagian kepala dari HTML. Dimulai dari tag <head> dan ditutup dengan </head>.
+   Bagian HEAD adalah bagian kepala dari HTML. Dimulai dari tag `<head>` dan ditutup dengan `</head>`.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Belajar HTML #01</title>
-    </head>
-    <body>
-        <p>Hello World!</p>
-    </body>
+  <head>
+    <title>Belajar HTML #01</title>
+  </head>
+  <body>
+    <p>Hello World!</p>
+  </body>
 </html>
+```
+
 Pada bagian HEAD, biasanya digunakan untuk menuliskan tag-tag yang akan dibaca oleh mesin.
 
 Seperti:
 
 Tag meta untuk SEO;
-Tag <title> untuk judul;
+Tag `<title>` untuk judul;
 Tempat menulis kode CSS dan Javascript;
 dan lain-lain. 3. Bagian BODY
-Bagian BODY adalah bagian yang akan ditampilkan pada web browser. Penulisannya di mulai dari tag <body> dan ditutup dengan </body>.
+Bagian BODY adalah bagian yang akan ditampilkan pada web browser. Penulisannya di mulai dari tag `<body>` dan ditutup dengan `</body>`.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Belajar HTML #01</title>
-    </head>
-    <body>
-        <p>Hello World!</p>
-    </body>
+  <head>
+    <title>Belajar HTML #01</title>
+  </head>
+  <body>
+    <p>Hello World!</p>
+  </body>
 </html>
+```
+
 Di sinilah nanti kita akan banyak menuliskan konten dengan berbagai macam tag. Saat ini kita baru mengisinya dengan tag <p>. Tag <p> adalah tag yang digunakan untuk membuat paragraf.
