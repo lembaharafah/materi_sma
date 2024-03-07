@@ -1,4 +1,5 @@
-Latihan SMA kelas 5 lembah arafah
+## Latihan SMA kelas 5 lembah arafah
+
 Buat lah CSS dengan body color warna biru mudah
 design table seperti gambar dibawah ini
 
